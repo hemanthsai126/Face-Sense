@@ -34,10 +34,6 @@ pyasn1-modules==0.2.8
 pybboxes==0.1.6
 pycurl==7.45.1
 pydeck==0.8.1b0
-PyDispatcher==2.0.5
-pydotplus==2.0.2
-Pygments==2.16.1
-pyls-spyder==0.4.0
 pyobjc==10.0
 pyobjc-core==10.0
 pyobjc-framework-Accessibility==10.0
